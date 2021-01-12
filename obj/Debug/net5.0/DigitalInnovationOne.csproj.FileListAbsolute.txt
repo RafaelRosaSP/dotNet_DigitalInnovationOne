@@ -1,0 +1,16 @@
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\arquivos de programas\ampps\www\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
