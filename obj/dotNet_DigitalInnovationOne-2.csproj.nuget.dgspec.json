@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\arquivos de programas\\ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj": {}
+    "C:\\Program Files\\Ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj": {}
   },
   "projects": {
-    "C:\\arquivos de programas\\ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj": {
+    "C:\\Program Files\\Ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\arquivos de programas\\ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj",
+        "projectUniqueName": "C:\\Program Files\\Ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj",
         "projectName": "dotNet_DigitalInnovationOne-2",
-        "projectPath": "C:\\arquivos de programas\\ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj",
+        "projectPath": "C:\\Program Files\\Ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\dotNet_DigitalInnovationOne-2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\arquivos de programas\\ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\obj\\",
+        "outputPath": "C:\\Program Files\\Ampps\\www\\DigitalInnovationOne\\dotNet_DigitalInnovationOne-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -14,3 +14,19 @@ C:\arquivos de programas\ampps\www\DigitalInnovationOne\dotNet_DigitalInnovation
 C:\arquivos de programas\ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\ref\dotNet_DigitalInnovationOne-2.dll
 C:\arquivos de programas\ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.pdb
 C:\arquivos de programas\ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.genruntimeconfig.cache
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.exe
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.deps.json
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.runtimeconfig.json
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.runtimeconfig.dev.json
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.dll
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\ref\dotNet_DigitalInnovationOne-2.dll
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\bin\Debug\net5.0\dotNet_DigitalInnovationOne-2.pdb
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.csprojAssemblyReference.cache
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.AssemblyInfoInputs.cache
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.AssemblyInfo.cs
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.csproj.CoreCompileInputs.cache
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.dll
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\ref\dotNet_DigitalInnovationOne-2.dll
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.pdb
+C:\Program Files\Ampps\www\DigitalInnovationOne\dotNet_DigitalInnovationOne-2\obj\Debug\net5.0\dotNet_DigitalInnovationOne-2.genruntimeconfig.cache
